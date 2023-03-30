@@ -16,50 +16,8 @@ Ma mission à consister en la réalisation d’un formulaire permettant d’enre
 
  
 
-Réalisation
-La réalisation de ce formulaire à été fait en PHP mode MVC :
 
--         Index :
 
-Une image contenant texte, capture d’écran, écran, Appareils électroniques
-
-Description générée automatiquement
-
- 
-
--         Modèle :
-
- 
-
-Une image contenant texte, capture d’écran, écran, Appareils électroniques
-
-Description générée automatiquement
-
- 
-
- 
-
--         Vue :
-
- 
-
-Une image contenant texte, capture d’écran, écran, Appareils électroniques
-
-Description générée automatiquement
-
- 
-
--         Contrôleur :
-
- 
-
-Une image contenant texte, écran, capture d’écran, Appareils électroniques
-
-Description générée automatiquement
-
- 
-
-Résultat
  
 
 
